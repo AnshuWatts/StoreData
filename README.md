@@ -13,3 +13,14 @@ There's one more __method__
 This is _italicised_ text
 
 There's one more *method*
+
+### Bullet Points list
+* Number 1
+* Number 2
+* Number 3
+
+### Again a List
+- Number 1
+- Number 2
+- Number 3
+
